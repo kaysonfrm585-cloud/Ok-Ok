@@ -1,81 +1,81 @@
 {
-  "serverName": "Rnn:Fivem",
-  "description": "Rnn:Fivem The Five Boroughs Inspired Loading Screen!",
-  "discordUrl": "https://discord.gg/pSD8mb5wKW",
+  "serverName": "The Windy Lands",
+  "description": "The Windy Lands is a Chicago-based serious roleplay experience built around immersive storytelling, realistic interactions, and a city full of opportunities. Build your name, establish your reputation, create lasting connections, and shape your own path through the streets of Chicago. Every decision matters, every story is different, and your legacy is yours to create. Welcome to The Windy Lands — your story starts here.",
+  "discordUrl": "https://discord.gg/WFV3SwPy9j",
   "tebexUrl": "Your Url Here",
 
   "discordCard": {
     "title": "DISCORD SERVER",
-    "description": "Rnn:Fivem The Five Boroughs Inspired Loading Screen!",
-    "url": "https://discord.gg/pSD8mb5wKW"
+    "description": "The Windy Lands discord server",
+    "url": "https://discord.gg/WFV3SwPy9j"
   },
 
   "team": [
     {
-      "name": "Rnn",
-      "role": "Founder",
-      "avatar": "https://cdn.discordapp.com/attachments/1248055512411406387/1510423511339106385/Rnn.png?ex=6a240343&is=6a22b1c3&hm=bd6804b2ba068c15360facbd0352d48aba6f04aee42267f349073a12342e48a2&"
+      "name": "KaysonNyc",
+      "role": "Founder/Developer",
+      "avatar": "https://cdn.discordapp.com/avatars/647529649085087765/282273431f9e654b44efe3123948f121.webp?size=1024"
     }
   ],
 
   "rules": [
-    "Your Rule's Here",
-    "Your Rule's Here",
-    "Your Rule's Here",
-    "Your Rule's Here",
-    "Your Rule's Here"
+    "All players must use appropriate character names that fit the setting and comply with applicable platform requirements.",
+    "Harassment, targeted bullying, discrimination, hate speech, and repeated personal attacks are prohibited.",
+    "Threatening to expose private information, doxxing, or sharing another person's confidential information without authorization is strictly prohibited.",
+    "Out-of-character disagreements must not be carried into roleplay to harass or intimidate another player.",
+    "Players may not encourage harassment, organize targeted attacks, or deliberately create hostility toward members of the community."
   ],
 
   "gallery": [
-    "https://cdn.discordapp.com/attachments/1248055512411406387/1511121941162098748/Screenshot_2026-06-01_205225.png?ex=6a23eaba&is=6a22993a&hm=7650b3071096b71abe4712be7222181833c962ab6a2a46d019a4811cb95ca9c6&",
-    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928147749965965/Screenshot_2026-05-29_144639.png?ex=6a24302b&is=6a22deab&hm=5f05a2a5f5576f03a11cc3c024edd4535d3006a23b73535a69e27e28339379e2&",
-    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928148416856315/Screenshot_2026-05-29_123050.png?ex=6a24302b&is=6a22deab&hm=d379e24f5364e3291b8ac0776a3abfe54b83328a71d5ca83dc8ded16a3400343&",
-    "https://cdn.discordapp.com/attachments/1248055512411406387/1509112214055817276/Screenshot_2026-05-19_225114.png?ex=6a248405&is=6a233285&hm=df535037cc805358ef40a8872a5a354230a199d5ca177065ece158b72ba98ab6&"
+    "https://cdn.discordapp.com/attachments/1553593715774201927/1555303471224201277/image.png?backend=b2&ex=6ad520bb&is=6ad3cf3b&hm=411a528a6d5e556d708abe6732c889e520b68fed73402df7ac27a6ecfef50de6&",
+    "https://cdn.discordapp.com/attachments/1553593715774201927/1554964856363421895/86599-571145e9b13a5ca8b7dea3487f2415f3.png?backend=b2&ex=6ad536df&is=6ad3e55f&hm=2e01797cbf5617c58a71459a3d398788df54a555c09deaba36ed54e4a1ded1a0&",
+    "https://cdn.discordapp.com/attachments/1553593715774201927/1553594498771189831/1000.png?ex=6ad580a0&is=6ad42f20&hm=fc6b76f94ee1280bffbfabd580bddc1c9bf9874ba31e36d3c8be71633201b246&,
+    "https://cdn.discordapp.com/attachments/1553593715774201927/1553594500356776036/1000.png?ex=6ad580a1&is=6ad42f21&hm=b308b568693851fada5e799d9bceecea0a67cc14949819abe4898aacb7a2c251&"
   ],
 
   "music": [
 
         {
-      "title": "Sweater Weather",
-      "artist": "Bloodhound Q50",
-      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512068642110705844/image.png?ex=6a2410a9&is=6a22bf29&hm=0a454bb2cb638c5bb9a5167291c1c58f30b1a2656ab1f97872ab3c4798779eba&",
-      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512557330607112262/videoplayback.mp4?ex=6a248649&is=6a2334c9&hm=89386772a6a8855a649d43c1db765d77ec058a5f802cf394d117989d696da845&"
+      "title": "Me And Doodie Lo",
+      "artist": "Doodie Lo x King Von",
+      "cover": "https://cdn.discordapp.com/attachments/1505231525246009404/1561373124774076499/hqdefault.png?ex=6ad61d89&is=6ad4cc09&hm=e46c75c79b41cc22d85760a173e0ba907c4ee7083cd5687b9d6bd9756a693017&",
+      "src": "https://cdn.discordapp.com/attachments/1505231525246009404/1561373259964878868/Doodie_Lo_King_Von__Only_The_Family_-_Me_and_Doodie_Lo_Official_Video.mp4?ex=6ad61daa&is=6ad4cc2a&hm=4dfe285e4d1c477aaf9a7754fd16e3e91fa67c13a1f79bebd32d88f6a2decb9e&"
     },
 
     
     {
-      "title": "All Roads",
-      "artist": "TyBando",
-      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512579619314729091/image.png?ex=6a249b0b&is=6a23498b&hm=92c838299a4eb76eefb6c98ca8b652314b2687dea168a1fe4724ff11b856db0c&",
-      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512581852911632445/TyBando_-_All_Roads_Official_Music_Vide....mp4?ex=6a249d20&is=6a234ba0&hm=0f3ce991ce49372945b559c4dae7d905d172ddc150ad34078e7aeebd59c3bb3f&"
+      "title": "Still Trappin",
+      "artist": "Lil Durk x King Von",
+      "cover": "https://cdn.discordapp.com/attachments/1505231525246009404/1561373636386885663/mqdefault.png?ex=6ad61e03&is=6ad4cc83&hm=256682a98e717522f7364ed1563465677e7f2fd1492218b6eb976dc176eee3f8&",
+      "src": "https://cdn.discordapp.com/attachments/1505231525246009404/1561373613037199360/Lil_Durk_-_Still_Trappin_feat._King_Von_Official_Music_Video.mp4?ex=6ad61dfe&is=6ad4cc7e&hm=55fa178f5f18e4256aaf85b8b27994fe9768013a344d187a60d9f7ab2bbcc798&"
     },
 
     {
-      "title": "Super Slime",
-      "artist": "Fully Chop",
-      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512586043424116736/image.png?ex=6a24a107&is=6a234f87&hm=6571e9114370cb8d8fafa7bbff895800c02f6e1ac6159b484e46882aac853a35&",
-      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512586824143343667/FullyChop_-_Super_Slime_Official_Vide....mp4?ex=6a24a1c1&is=6a235041&hm=ecc75681ee597daf38966ca1efe5fae3836cba94da0da6f9958da5a024e44285&"
+      "title": "F*** JOJO",
+      "artist": "9BMEECHIE",
+      "cover": "https://cdn.discordapp.com/attachments/1505231525246009404/1561373986179256320/mqdefault.png?ex=6ad61e57&is=6ad4ccd7&hm=affac01619714477d52182d83934f12349646897133e6ef389b91152ad5e55a7&",
+      "src": "https://cdn.discordapp.com/attachments/1505231525246009404/1561374085026545735/9BMEECHIE_F____JOJO_OFFICIAL_VIDEO_EA_4K_FILMS.mp4?ex=6ad61e6e&is=6ad4ccee&hm=ee385e03bf1a83540301d2a3e37a8b4a1db1ef1c9ea5f60a44e58d42bfe267ed&"
     },
 
     {
-      "title": "On Deck",
-      "artist": "VonOff1700",
-      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512586440024789213/image.png?ex=6a24a165&is=6a234fe5&hm=5a2ec6c2fa58c17b1824bf877561ca57e6cff6d1af424ced635fc60fd59fe0fe&",
-      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512586824764231812/VonOff1700_-_On_DeckOfficial_Video_Sh....mp4?ex=6a24a1c1&is=6a235041&hm=edc7618e62c9c043420324c7d226cee74960b7e2b400a91d09dbb31b0b4a6d60&"
+      "title": "Stretched",
+      "artist": "Rell Vert x Bloodhound Lil Jeff",
+      "cover": "https://cdn.discordapp.com/attachments/1505231525246009404/1561375786014085171/mqdefault.png?ex=6ad62004&is=6ad4ce84&hm=e11282a5dce82294f13f49a41ec2d6e89e069630a8e89650c297b64dc435a284&",
+      "src": "https://cdn.discordapp.com/attachments/1505231525246009404/1561375772881457203/Rell_Vert_x_Bloodhound_Lil_Jeff_-_Stretched_Official_Music_Video.mp4?ex=6ad62001&is=6ad4ce81&hm=327f83fe23488d0352143de80fba918ed6074cf65788d8118f3ecaf33cac7c3d&"
     },
 
     {
-      "title": "Fire In The Booth - PT2",
-      "artist": "Northside Benji",
-      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512581900609388564/I_sTCtTrGnI-HD.jpg?ex=6a249d2b&is=6a234bab&hm=9317a2068346cfdb4ce3f018b66a887f07e6ab7f721a7605a1e15e6c7a511bbe&",
+      "title": "Faneto",
+      "artist": "Chief Keef",
+      "cover": "https://cdn.discordapp.com/attachments/1505231525246009404/1561372604000899162/mqdefault.png?ex=6ad61d0d&is=6ad4cb8d&hm=53e15c92a295404d1c3a763dfb13209ca6d4902d708ab370c0c4f1affdf82a69&",
       "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512581749157269574/NorthSideBenji_-_Fire_In_The_Booth_pt2.mp4?ex=6a249d07&is=6a234b87&hm=75a54eb9e2e3df242befdbd7dbbac68da0765f466ade6ac56431821d83bffee3&"
     },
 
     {
-      "title": "Song Title",
-      "artist": "Artist Name",
-      "cover": "Cover Url",
-      "src": "Your Video Url Mp4"
+      "title": "Triple 3",
+      "artist": "BloodHound Q50, BloodHound Lil Jeff & Lil Scoom",
+      "cover": "https://cdn.discordapp.com/attachments/1505231525246009404/1561376307022135436/mqdefault.png?ex=6ad62080&is=6ad4cf00&hm=1507812720fd045acd6f2690544b05986e6941628dc750fd0068f55f3aca3ef5&",
+      "src": "https://cdn.discordapp.com/attachments/1505231525246009404/1561376302588764210/Bloodhound_Q50_x_Bloodhound_Lil_Jeff_x_Lil_Scoom89_-_Triple_3_Official_Music_Video.mp4?ex=6ad6207f&is=6ad4ceff&hm=d87529f3c113f11850de7e29974cb6c4fe3dadcefa24ef5aa4e0a02ae35be775&"
     },
 
     {
